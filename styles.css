@@ -1,0 +1,36 @@
+header
+{
+	font-size:10px;
+	
+
+}
+article
+{
+	display:block;
+	border: black solid 1px;
+	margin: 5%;
+}
+*
+{
+	background-color:light-blue;
+	
+}
+
+h4
+{
+	color:orange;
+}
+
+a:visited
+{
+	background-color:red;
+}
+
+div
+{
+	background-color:green;
+	margin-top: 25px;
+	height:400px;
+	width:400px;
+	
+}
